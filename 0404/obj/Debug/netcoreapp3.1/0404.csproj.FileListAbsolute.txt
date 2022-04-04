@@ -1,0 +1,14 @@
+C:\Users\99470\source\repos\0404\0404\bin\Debug\netcoreapp3.1\0404.exe
+C:\Users\99470\source\repos\0404\0404\bin\Debug\netcoreapp3.1\0404.deps.json
+C:\Users\99470\source\repos\0404\0404\bin\Debug\netcoreapp3.1\0404.runtimeconfig.json
+C:\Users\99470\source\repos\0404\0404\bin\Debug\netcoreapp3.1\0404.runtimeconfig.dev.json
+C:\Users\99470\source\repos\0404\0404\bin\Debug\netcoreapp3.1\0404.dll
+C:\Users\99470\source\repos\0404\0404\bin\Debug\netcoreapp3.1\0404.pdb
+C:\Users\99470\source\repos\0404\0404\obj\Debug\netcoreapp3.1\0404.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\0404\0404\obj\Debug\netcoreapp3.1\0404.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\0404\0404\obj\Debug\netcoreapp3.1\0404.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\0404\0404\obj\Debug\netcoreapp3.1\0404.AssemblyInfo.cs
+C:\Users\99470\source\repos\0404\0404\obj\Debug\netcoreapp3.1\0404.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\0404\0404\obj\Debug\netcoreapp3.1\0404.dll
+C:\Users\99470\source\repos\0404\0404\obj\Debug\netcoreapp3.1\0404.pdb
+C:\Users\99470\source\repos\0404\0404\obj\Debug\netcoreapp3.1\0404.genruntimeconfig.cache
